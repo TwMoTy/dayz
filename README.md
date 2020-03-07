@@ -1,1 +1,1 @@
-# dayz
+# dayz_resourcepack
